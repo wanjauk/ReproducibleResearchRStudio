@@ -1,0 +1,23 @@
+    1  R
+    2  cat /home/user/.sudo_as_admin_successful 
+    3  sudo shutdown -h now
+    4  git status
+    5  less .gitignore
+    6  git commit -m "add .gitgnore and .Rproj files
+ echo 35F03F0A && /usr/bin/env && echo D17792CD
+    7  git commit -m "add .gitgnore and .Rproj files"
+    8  git config --global user.email "wanjaukm@gmail.com"
+    9  git config --global user.name "Kennedy Mwangi"
+   10  git commit -m "add .gitgnore and .Rproj files"
+   11  git push -u origin master
+   12  git status
+   13  git remote add https://github.com/wanjauk/ReproducibleResearchRStudio
+   14  git remote add origin https://github.com/wanjauk/ReproducibleResearchRStudio
+   15  git add ReproducibleResearchRStudio.Rproj 
+   16  git add .gitignore 
+   17  git status
+   18  git commit -m "add .gitgnore and .Rproj files"
+   19  git status
+   20  git push -u origin master
+   21  git status
+   22  history > history.txt
